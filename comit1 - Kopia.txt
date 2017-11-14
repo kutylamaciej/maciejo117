@@ -3,8 +3,7 @@
 
  
 using namespace std;
- 
- double a, b, c, p, q, delta, x1, x2;
+ qwewqeqw, x2;
      int liczba;
       
       
