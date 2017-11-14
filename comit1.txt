@@ -8,8 +8,7 @@ using namespace std;
      int liczba;
       
       
-      
-void funkcje_programu()
+   acd
 {
  
  
