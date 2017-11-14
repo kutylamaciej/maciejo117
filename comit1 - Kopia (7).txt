@@ -10,15 +10,7 @@ double pobierz(double liczba){
             cout << "Podaj poprawna wartosc: ";
   cin.clear(); 
   cin.sync();}
-  return liczba;
-       }
- 
-void parametry()
-{
-         cout    << endl  << endl  << "Parametry:" << endl;
-     
-    cout << "Dziedzina: Rzeczywista" << endl;
-    cout << "Zbior wartosci: <"; 
+  return liczba;rqweqwrqwbior wartosci: <"; 
     if(a<0) cout << q << ",-oo)" <<  endl;
     else cout << q << ",+oo)" << endl;
     cout << "Pierwiastek z delty: " << sqrt(delta) << endl;
