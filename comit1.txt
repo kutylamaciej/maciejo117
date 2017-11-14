@@ -10,14 +10,7 @@ using namespace std;
       
    acd
 {
- 
- 
-      cout << endl << "----------------------------------------" << endl;
-      cout << "[1] Licz postac kanoniczna z ogolnej." << endl;
-      cout << "[2] Licz postac ogolna z kanonicznej." << endl;
-      cout << "[0] Wyjdz z programu." << endl;
-}
- 
+ rqwrqwrqw
 double pobierz(double liczba){
        while(!(cin>>liczba)){
             cout << "Podaj poprawna wartosc: ";
